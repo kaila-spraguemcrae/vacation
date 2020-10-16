@@ -1,6 +1,6 @@
 # _Vacation Webstie_
 
-####_website to practice using Bootstrap, 10.16.2020_
+#### _website to practice using Bootstrap, 10.16.2020_
 
 #### By _**Kaila Sprague McRae**_
 
