@@ -1,7 +1,40 @@
-img {
+.size img {
   margin: auto;
-  width: 90%;
+  width: 100%;
   height: auto;
   display: block;
   padding: 10px;
+}
+
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #cddede;
+  font-size: larger;
+}
+
+.container-fluid{
+  width: 80%;
+ 
+}
+
+ol {
+  font-size: 20px;
+}
+
+.jumbotron{
+  background-image: url(images/banner.jpeg); 
+  background-size: cover;
+}
+.jumbotron h1 {
+  font-size: 50px;
+  letter-spacing: 30px;
+}
+.jumbotron p {
+  text-indent: 5px;
+  font-size: 24px;
+}
+
+.normal h2 {
+  font-size: 35px;
+  letter-spacing: 30px;
 }
